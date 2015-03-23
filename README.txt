@@ -1,0 +1,1 @@
+First assignment for my Design Patterns class. Dependency Injection and Strategy used.

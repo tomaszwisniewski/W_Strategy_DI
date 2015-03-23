@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+<IntValue>
+	<value>3</value>
+</IntValue>
+<IntValue>
+	<value>1</value>
+</IntValue>
+<IntValue>
+	<value>2</value>
+</IntValue>
+<IntValue>
+	<value>4</value>
+</IntValue>
+</Values>

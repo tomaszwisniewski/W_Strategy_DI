@@ -1,0 +1,6 @@
+D:\Projects\Wzorce1\Wzorce1\bin\Debug\Wzorce1.exe.config
+D:\Projects\Wzorce1\Wzorce1\bin\Debug\Wzorce1.exe
+D:\Projects\Wzorce1\Wzorce1\bin\Debug\Wzorce1.pdb
+D:\Projects\Wzorce1\Wzorce1\obj\Debug\Wzorce1.csprojResolveAssemblyReference.cache
+D:\Projects\Wzorce1\Wzorce1\obj\Debug\Wzorce1.exe
+D:\Projects\Wzorce1\Wzorce1\obj\Debug\Wzorce1.pdb
